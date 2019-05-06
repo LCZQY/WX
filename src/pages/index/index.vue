@@ -22,7 +22,7 @@
       <input type="text" class="form-control" v-model.lazy="motto" placeholder="v-model.lazy" />
     </form>
 
-    <a href="/pages/counter/main" class="counter">测试提交</a>
+    <a href="/pages/counter/main" class="counter">再次提交是否会成功呢？</a>
 
     <div class="all">
         <div class="left">
